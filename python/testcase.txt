@@ -1,0 +1,40 @@
+# input.txt - File berisi test case untuk pengujian program
+
+# Test Case 1: Menampilkan semua produk (Menu 1)
+1
+
+# Test Case 2: Menambahkan produk PetShop baru (Menu 2 -> 1)
+2
+1
+Mainan Tikus
+30000
+25
+
+# Test Case 3: Menambahkan produk Aksesoris baru (Menu 2 -> 2)
+2
+2
+Bandana Pet
+20000
+12
+Aksesoris Kepala
+Kain Katun
+Hijau
+
+# Test Case 4: Menambahkan produk Baju baru (Menu 2 -> 3)
+2
+3
+Jas Kucing Formal
+120000
+5
+Pakaian Formal
+Polyester
+Hitam
+Kucing
+S
+Meowfashion
+
+# Test Case 5: Menampilkan semua produk setelah penambahan (Menu 1)
+1
+
+# Test Case 6: Keluar program (Menu 3)
+3

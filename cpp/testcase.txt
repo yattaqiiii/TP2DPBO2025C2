@@ -1,0 +1,43 @@
+# input.txt - File berisi test case untuk pengujian program PetShop.cpp
+
+# Test Case 1: Menampilkan semua produk (Menu 1)
+1
+
+# Test Case 2: Menambahkan produk PetShop baru (Menu 2 -> 1)
+2
+1
+P001
+Makanan Kucing
+50000
+20
+
+# Test Case 3: Menambahkan produk Aksesoris baru (Menu 2 -> 2)
+2
+2
+A001
+Kalung Anjing
+30000
+15
+Kalung
+Kulit
+Hitam
+
+# Test Case 4: Menambahkan produk Baju baru (Menu 2 -> 3)
+2
+3
+B006
+Jas Kucing Formal
+120000
+5
+Pakaian Formal
+Polyester
+Hitam
+Kucing
+S
+Meowfashion
+
+# Test Case 5: Menampilkan semua produk setelah penambahan (Menu 1)
+1
+
+# Test Case 6: Keluar program (Menu 0)
+0
